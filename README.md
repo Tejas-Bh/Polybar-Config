@@ -5,8 +5,8 @@ theme.
 
 ## Requirements
 
-Ubuntu Nerd Font
-Polybar
+- Ubuntu Nerd Font
+- Polybar
 
 # Credits
 
